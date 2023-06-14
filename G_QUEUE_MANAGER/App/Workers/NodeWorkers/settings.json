@@ -1,0 +1,11 @@
+{
+	"IP_GATEWAY" : "ip-api.com",
+	"DB_CONN" : {
+		"host" : "localhost",
+		"user" : "grand",
+		"password":"password",
+		"port": "3306",
+		"database":"grand_ip_rec"
+	}
+
+}
